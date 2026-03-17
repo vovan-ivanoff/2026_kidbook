@@ -1,5 +1,8 @@
 # Геймификация
 
+![Иллюстрация](../images/gigachat_generated/gamification.jpg)
+
+
 
 
 ## Что такое геймификация?

@@ -1,5 +1,8 @@
 # Композитор
 
+![Иллюстрация](../images/gigachat_generated/composer.jpg)
+
+
 
 
 ## Что такое композитор?

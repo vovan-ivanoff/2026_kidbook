@@ -1,5 +1,8 @@
 # Документальный фильм
 
+![Иллюстрация](../images/gigachat_generated/documentary.jpg)
+
+
 
 
 ## Введение

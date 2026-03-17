@@ -1,5 +1,8 @@
 # Музыкальные инструменты
 
+![Иллюстрация](../images/gigachat_generated/musical_instruments.jpg)
+
+
 
 
 ## Что такое музыкальные инструменты?

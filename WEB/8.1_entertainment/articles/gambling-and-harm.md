@@ -1,5 +1,8 @@
 # Азартные игры и их вред
 
+![Иллюстрация](../images/gigachat_generated/gambling-and-harm.jpg)
+
+
 
 
 ## Что такое азартные игры?

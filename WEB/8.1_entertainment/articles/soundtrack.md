@@ -1,5 +1,8 @@
 # Саундтрек — музыкальное сопровождение [фильма](movie.md)
 
+![Иллюстрация](../images/gigachat_generated/soundtrack.jpg)
+
+
 
 ## Тема
 

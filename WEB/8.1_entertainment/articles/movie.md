@@ -1,5 +1,8 @@
 # Фильм
 
+![Иллюстрация](../images/gigachat_generated/movie.jpg)
+
+
 
 ## Что такое фильм?
 

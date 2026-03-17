@@ -1,5 +1,8 @@
 # Настольные игры
 
+![Иллюстрация](../images/gigachat_generated/board-games.jpg)
+
+
 
 
 ## Что такое настольные игры?

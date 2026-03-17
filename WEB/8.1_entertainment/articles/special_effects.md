@@ -1,5 +1,8 @@
 # Спецэффекты в кино и мультфильмах
 
+![Иллюстрация](../images/gigachat_generated/special_effects.jpg)
+
+
 
 ## Тема: Спецэффекты
 

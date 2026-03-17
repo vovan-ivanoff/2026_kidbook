@@ -1,5 +1,8 @@
 # Жанры музыки
 
+![Иллюстрация](../images/gigachat_generated/music_genres.jpg)
+
+
 
 
 ## Что такое жанры музыки?
